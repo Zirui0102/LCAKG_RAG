@@ -1,0 +1,157 @@
+﻿Paper_title,Table_title,is LCI inventory table?
+1,Table 2 Data summary related to additive manufacturing,No
+1,Table 3 Main resource consumption and emissions in the life cycle of impeller manufacturing methods,Yes
+1,Table 4 Normalization results of three manufacturing methods,No
+3,Table 1 Inputs and outputs associated with the production of 1 kg of refined mineral oil,Yes
+3,Table 2 Fertilizers used for growing 1 hectare of rapeseed oil,No
+4,Table 2 Summary of main materials and energy in foreground life cycle inventory for geothermal power plants (GPPs) in literature.,Yes
+4,Table 3 Stimulation methods and respective materials and energy ﬂows for geothermal power plants (GPPs) found in the literature.,No
+5,Table 1 Overview of considered environmental impacts.,No
+5,Table 2 LCI data DDSG turbine.,Yes
+5,Table 3 LCI data DFIG and DDPMSG turbine.,Yes
+5,Table 4 Failure and replacement rates.,No
+5,"Table 5 Design features, assumptions and results of LCA wind power studies.",No
+6,Table 1 LCI data.,Yes
+6,Table 2 CED values for all the phases considered in the three scenarios.,No
+7,Table 1 Wastewater characteristics and treated effluent characteristics,No
+7,"Table 3 Overview of inventory data and assumptions for primary clarification, as well as aerobic and ultrafiltration treatment",Yes
+8,Table 1 Profile of case studies of small wastewater treatment technologies.,No
+8,Table 2 Data sources for life cycle inventory of wastewater treatment systems.,Yes
+9,"Table 7 LCIA results for 2030 scenario (complete vehicles lifetime - 150,000 km)",No
+10,Table 1 Summary of inventory data used in this study,Yes
+10,"Table 2. Energy input required for cultivation, harvesting, storage and transport of ley crops",No
+10,Table 3 General specifications of bio-methane fuelled and electric bus,No
+10,Table 4 Sensitivity analysis,No
+11,"Table 1 Ratios of clinker in different types of cement (Ecofys, 2009 ).",No
+11,Table 2 Scope of a cradle-to-gate method of cement production from different LCAs studies.,No
+11,Table 3 Summary of the LCI of clinker and cement production from literature.,Yes
+11,Table 4 Summary of LCIA accomplished from the literature.,No
+11,Table 5 Summarizes LCA methodologies used in various studies extracted from the literature.,No
+11,Table 6 Summarizes LCAs system boundaries (Cradle-to-gate) from the literature.,No
+12,Table 1 Materials ﬂow of steel production in Poland enational integrated steel plant.,No
+12,Table 2 Materials ﬂow of steel production in Poland enational electric arc furnaces (EAF).,No
+12,Table 3 Life cycle inventory of national steel production enational integrated steel plant.,Yes
+12,Table 4 Life cycle inventory of national steel production e national electric arc furnaces.,Yes
+13,Table 1 Inputs required to produce one ton of liquid steel from virgin iron; adapted from Yellishetty et al. (2011) .,Yes
+13,Table 2 Life Cycle Global Warming Potential (GWP) results.,No
+14,Table 2 Specific equations of carbon emission in different phases.,No
+14,Table 3 LCA inventory of steel-GluBam hybrid truss and steel truss.,Yes
+14,"Table 12 Carbon emission, energy consumption and cost of two trusses in the disposal",No
+14,Table 13 Statistical characteristics of Monte Carlo simulation results.,No
+15,Table 1 Life cycle inventory. Values are presented per functional unit.,Yes
+15,Table 2 LCA and WF analysis results. Values are presented per functional unit.,No
+16,"Table 2 World resource and production of bauxite, alumina, and aluminum smelter ( U.S. Geolog-",No
+16,Table 3 Detailed inventories of the processes considered in aluminum production (inputs and outputs).,Yes
+16,Table 4 Impact categories from TRACI method and the ILCD method.,No
+16,Table 5 LCIA results from ILCD method (using SimaPro software version 8.5).,No
+16,Table 11 Summary of the results for alumina production and smelting process from this research.,No
+17,Table 1 Life cycle inventory. Values are presented per functional unit.,Yes
+18,Table 1 Life cycle inventory. Values are presented per functional unit.,Yes
+18,Table 2 Midpoint results of aluminum-silicon alloy production. Values are presented per,No
+19,Table 1 Variables used in techno-economic assessment.,No
+19,Table 2 Composition of scraps in the raw scrap and price of individual components.,No
+19,Table 3 Life cycle inventory data to produce 1 kg of aluminum from the mixed scrap.,Yes
+19,Table 4 Life cycle inventory of components used in the process.,Yes
+20,Table 1 LCI of the AECs per FU in the production stage.,Yes
+20,Table 2 LCIA results for 10 impact categories per FU.,No
+20,Table 3 Sensitivity analysis results with 5% increase from baseline.,No
+21,"Table 1 Main inventory data per FU for transportation, pre-treatment and fast pyrolysis of poplar biomass (SS1-SS3).",Yes
+21,Table 2 Main inventory data per FU for upgrading and product transportation (SS4-SS7).,Yes
+21,Table 3 Mass and economic allocation factors for bio-oil production and upgrading.,No
+21,Table 4 Environmental proﬁle of the gasoline and diesel products (results per FU).,No
+21,Table 5 Process contribution (%) to the environmental proﬁle.,No
+22,Table 1 Life cycle inventory of agricultural practices and inputs for both Danish and Italian casestudies [quantities are shown per hectare cultivated (ha); the unit “rep”refers to the num-,Yes
+22,Table 2 Scenarios and the fertilisers and pesticides emissions models used,No
+23,Table 1 Life cycle inventory (LCI) of the organic and conventional lettuce cultivation systemsat Anthemountas basin (Northern Greece) per hectare of lettuce cultivation.,Yes
+23,"Table 2 ReCiPe midpoint and endpoint impact categories ( PR/C19e, 2014 ).",No
+24,Table 1 Complete environmental-Life Cycle Inventory.,Yes
+24,Table 2 Life Cycle Cost (LCC) information of transit buses with alternative fuel options (2013 Dollars).,No
+25,Table 1 Inventory characteristics of WTP stage per 1 km of travel.,Yes
+25,Table 2 Estimated fuel consumption and fuel emissions per 1 km of travel (PTW stage).,No
+26,Table 1 Bill of materials of the bus models.,Yes
+26,Table 2 Polish gross electricity generation forecast by fuel [%].,No
+26,Table 4 Description of the scenarios investigated in the bus ﬂeet electri ﬁcation case study on,No
+27,Table 1 GHG emissions of EVs and ICEVs in some studies.,No
+27,Table 2 General information on e-bus and conventional bus in Vietnam.,No
+27,Table 3 Environmental inflows and outflows of the product systems.,Yes
+27,Table 4 Life cycle impact assessment results of an e-bus and a diesel bus per one pkm.,No
+27,Table 5 Comparative environmental points of an e-bus and a diesel bus.,No
+28,Table 1 Life cycle inventory (Values were presented per functional unit).,Yes
+28,Table 2 LCIA midpoint results (Values were presented per functional unit).,No
+28,Table 3 Comparison of gas extraction and gas drainage production modes (Values were presented per functional unit).,No
+29,Table 1 Chemical properties of coal.,No
+29,Table 2 Mass balance of an underground coal mine.,No
+29,Table 3 Life cycle inventory of energetic coal. From “rooms and pillars ”technique and jig,Yes
+30,Table 1 Life cycle inventory (Only total consumption or emissions of data are shown).,Yes
+31,Table 1 Assumed composition (dry basis) of feedstock delivered to the reﬁnery gate.,No
+31,Table 2 Data sources for the life cycle inventory of lignocellulosic ethanol manufacture.,Yes
+31,Table 3 Global inventory for lignocellulosic ethanol production.,Yes
+31,Table 4 Assumptions about delivery activities.,No
+32,Table 1 Summary of the covered well-to-tank processes.,No
+32,Table 2 Input and output data of the butanol manufacturing unit process for 1 kg of ABE.,Yes
+32,Table 3 Input and output data for passenger car transport per km using the butanol-gasoline blend,Yes
+32,"Table 4 Main environmental impacts of the steam production process per driven km,",No
+32,"Table 5 LCIA of the tank-to-wheel phase, based on data for 2018.",No
+33,Table 1 Inventory of CDW recycling and disposal.,Yes
+33,Table 2 Inventory of production of three recycled products.,Yes
+33,Table 7 Normalisation results of three recycled products.,No
+33,Table 8 The proportion of main materials in the environmental impact of key processes.,No
+34,Table 1 LCI energy use and air emissions data efor electricity generation (GreenConcrete LCA tool).,Yes
+34,Table 2 LCI data for the cement production in the country of origin and transportation to Singapore.,Yes
+34,Table 3 LCI data for the aggregates production in the country of origin and transportation to Singapore.,Yes
+35,Table 1 Inventory of main input ﬂows to the CdTe module manufacturing process,Yes
+35,Table 2 Inventory of main input ﬂows to the CIS module manufacturing process,Yes
+35,Table 3 Inventory of main input ﬂows to the BOS per square metre of PV module,Yes
+36,Table 1 Key inputs and outputs for unit processes.,Yes
+36,Table 2 Net present values (NPV) for a plant (100 t TS/d) using different processes.,No
+37,Table1 Life cycle inventory of a 200W PV panel and a 280W PV panel.,Yes
+37,Table 2 Life cycle inventory of a 6 kW wind turbine.,Yes
+37,Table 3 Life cycle inventory of a 960 Ah lead-calcium alloy,Yes
+37,Table 4. Life cycle inventory of a 65 kW diesel generator.,Yes
+38,Table 1 Allocation factors for the products of coal-based methanol production.,No
+38,Table 2 Impact categories for the CML2001 and Eco-indicator 99 (EI99) models.,No
+38,Table 3 Life-cycle inventory for the production of 1 t of coal-based methanol.,Yes
+38,Table 4 Integral environmental impact assessment result at the mid-point level.,No
+38,Table 5 Environmental performance at the end-point level.,No
+38,Table 6 Characteristic values for the worst-case values for the coal gasi ﬁcation technology,No
+39,Table 1 Inputs and outputs related to 1 h for the analysed process of methanol and electricity co-production.,Yes
+39,Table 2 Allocation factors a ifor methanol and electricity determined based on the amount (moles),No
+39,Table 3 A comparison of life cycle GHG emissions generated through the production of 1 kg ofmethanol.,No
+40,Table 1 Inventory data.,Yes
+40,Table 2 Life cycle assessment results for methanol production.,No
+40,Table 3 Life cycle assessment results in comparison for metals utilized in catalysts.,No
+40,Table 4 Life cycle assessment comparison for electricity generation sources.,No
+41,Table 1 Life cycle inventory (per functional unit) of egg yolk powder production.,Yes
+41,Table 2 Environmental impacts of different stages in egg yolk powder manufacturing.,No
+42,Table 1 LCI data for the biorefinery systems.,Yes
+42,"Table 2 The properties of ethanol, gasoline, E10 and E85.",No
+42,"Table 3 LCI data for crude oil extraction, transportation, refinery, blending with ethanol, and final use.",Yes
+42,Table 4 Speciﬁc chemical exergy of components involved in the processes.,No
+43,"Table 1 Sugarcane [12], molasses, ethanol production [4], gasoline consumption [13] and fuel ethanol requirement in India.",No
+43,Table 2 Inventory of sugarcane farming for sugarcane production of 111.4 ton in NR and 88.2ton in WR to produce 1 ton of ethanol.,Yes
+43,"Table 3 Inventory of sugarcane (111.4 and 88.2 ton), molasses (5.0 and 4.0 ton) and ethanol (1 ton) transport in NR and WR.",Yes
+43,Table 4 Inventory of sugar production for processing 111.4 (NR) and 88.2 (WR) ton sugarcanein mill to produce 1ton of ethanol.,Yes
+43,"Table 5 Inventory of ethanol production of 1 ton, blending 1 ton ethanol with gasoline.",Yes
+43,"Table 7 Mass, energy and market price for estimating product and co-products allocationfactor, for producing 1ton of ethanol.",No
+43,Table 8 Process wise GHG emissions (kg CO 2-eq/ton of ethanol) in NR and WR.,No
+43,Table 9 Process wise energy consumption (MJ/ton of ethanol) in NR and WR.,No
+43,Table 10 Percent GHG emissions reduction and NER using E5 and E10 blends.,No
+44,Table 1 List of inputs and outputs of the production of biodiesel from UCO.,Yes
+45,Table 1 Inventory inputs of willow cultivation and harvesting.,Yes
+45,Table 2 Inventory inputs of poplar cultivation and harvesting.,Yes
+45,Table 3 Inventory inputs of logging residue cultivation and harvesting.,Yes
+45,Table 4 Biomass transportation distances for power conversion systems.,No
+45,Table 5 Inventory inputs of pyrolysis oil production from woody biomass feedstock.,Yes
+45,Table 6 Plant size and efficiency of each power generation system.,No
+45,Table 7 GHG emissions results of PyOil production from 4 biomass feedstocks.,No
+46,Table 1 Life cycle inventory data to produce one ton of packaged canola edible oil.,Yes
+47,Table 1 The composition of coke oven gas in this study.,No
+47,Table 2 The inputs and outputs of COG-based methanol production.,Yes
+47,Table 3 The inputs and outputs of coal to methanol production.,Yes
+47,Table 4 The inputs and outputs of natural gas to methanol production.,Yes
+47,Table 5 Comparative analysis of the three methanol routes in energy consumption and global warming potential.,No
+47,Table 6 Scenario analysis of COG route with MP steam supplement from CDQ technology.,No
+48,Table 1 Inventory data for the production and processing of one tonne of dry seaweed into biofuels.,Yes
+49,Table 2 Data inventory for LDG-ethanol process.,Yes
+49,Table 3 Data inventory for Corn-ethanol and Coal-ethanol.,Yes
+50,Table 1 Input and output ﬂows of WS-EtOH production referred to the selected Functional Unit (FU=1 km).,Yes

@@ -1,0 +1,14 @@
+# GraphQA
+langchain==0.3.26
+langchain-openai==0.3.28
+langchain-neo4j==0.5.0
+neo4j==5.28.2
+
+# GraphMAQA
+langchain==0.3.26
+langchain-core==0.3.74
+langchain-openai==0.3.28
+langchain-community==0.3.25
+langchain-neo4j==0.5.0
+langgraph==0.4.8
+neo4j==5.28.2
